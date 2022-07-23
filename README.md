@@ -12,4 +12,5 @@ simplementaçãoes que foram realizadas dorante os cotenúdos/vídeos:
 3. Java e Kotlin Juntos!? Construindo Apps Android
 - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Fredericoef/matches-simulator/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 
-
+4. Explorando o Firebase para apps resilientes
+- [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Fredericoef/matches-simulator/tree/release/explorando-o-firebase-para-apps-android-resilientes)
